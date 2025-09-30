@@ -1,7 +1,7 @@
 # Finance Dashboard App (MERN + Machine Learning)
 
 A full-stack finance dashboard application with **machine learning predictions** for revenue and expenses.  
-Built using the **MERN stack** (MongoDB, Express, TypeScript, Node.js) and modern frontend tooling.  
+Built using the **MERN stack** (MongoDB, Express, React + TypeScript, Node.js) and modern frontend tooling.  
 
 ![Dashboard Preview](./client/public/db_preview.png) 
 
